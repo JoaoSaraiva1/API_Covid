@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "606dc9f531803c2b28242e38"
+  },
+  "data": "29-03-2021",
+  "confirmados_novos": 309,
+  "internados_uci": 623
+},{
+  "_id": {
+    "$oid": "606dc9f531803c2b28242e39"
+  },
+  "data": "30-03-2021",
+  "confirmados_novos": 389,
+  "internados_uci": 584
+},{
+  "_id": {
+    "$oid": "606dc9f531803c2b28242e3a"
+  },
+  "data": "31-03-2021",
+  "confirmados_novos": 617,
+  "internados_uci": 558
+},{
+  "_id": {
+    "$oid": "606dc9f531803c2b28242e3b"
+  },
+  "data": "01-04-2021",
+  "confirmados_novos": 592,
+  "internados_uci": 538
+},{
+  "_id": {
+    "$oid": "606dc9f531803c2b28242e3c"
+  },
+  "data": "02-04-2021",
+  "confirmados_novos": 548,
+  "internados_uci": 513
+},{
+  "_id": {
+    "$oid": "606dc9f531803c2b28242e3d"
+  },
+  "data": "03-04-2021",
+  "confirmados_novos": 280,
+  "internados_uci": 512
+}]
